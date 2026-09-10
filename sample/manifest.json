@@ -1,0 +1,147 @@
+[
+ {
+  "invoice_no": "INV-2026-1008",
+  "rule": "IBR-128-AE",
+  "what": "emirate stored as ISO AE-DU"
+ },
+ {
+  "invoice_no": "INV-2026-1011",
+  "rule": "IBR-128-AE",
+  "what": "emirate stored as ISO AE-DU"
+ },
+ {
+  "invoice_no": "INV-2026-1013",
+  "rule": "IBR-128-AE",
+  "what": "emirate stored as ISO AE-DU"
+ },
+ {
+  "invoice_no": "INV-2026-1016",
+  "rule": "IBR-128-AE",
+  "what": "emirate stored as ISO AE-DU"
+ },
+ {
+  "invoice_no": "INV-2026-1026",
+  "rule": "IBR-128-AE",
+  "what": "emirate stored as ISO AE-DU"
+ },
+ {
+  "invoice_no": "INV-2026-1004",
+  "rule": "IBR-128-AE",
+  "what": "emirate stored as ISO AE-SH"
+ },
+ {
+  "invoice_no": "INV-2026-1014",
+  "rule": "IBR-128-AE",
+  "what": "emirate stored as ISO AE-SH"
+ },
+ {
+  "invoice_no": "INV-2026-1024",
+  "rule": "IBR-128-AE",
+  "what": "emirate stored as ISO AE-SH"
+ },
+ {
+  "invoice_no": "INV-2026-1002",
+  "rule": "IBR-128-AE",
+  "what": "emirate stored as a name"
+ },
+ {
+  "invoice_no": "INV-2026-1015",
+  "rule": "IBR-128-AE",
+  "what": "emirate stored as a name"
+ },
+ {
+  "invoice_no": "INV-2026-1001",
+  "rule": "IBR-002-AE",
+  "what": "fx rate stored to 8 decimals"
+ },
+ {
+  "invoice_no": "INV-2026-1003",
+  "rule": "IBR-002-AE",
+  "what": "fx rate missing"
+ },
+ {
+  "invoice_no": "INV-2026-1005",
+  "rule": "IBR-104-AE",
+  "what": "no AED amounts on foreign currency lines"
+ },
+ {
+  "invoice_no": "INV-2026-1007",
+  "rule": "IBR-104-AE",
+  "what": "no AED amounts on foreign currency lines"
+ },
+ {
+  "invoice_no": "INV-2026-1018",
+  "rule": "IBR-104-AE",
+  "what": "no AED amounts on foreign currency lines"
+ },
+ {
+  "invoice_no": "INV-2026-1021",
+  "rule": "R-04",
+  "what": "seller TRN 14 digits"
+ },
+ {
+  "invoice_no": "INV-2026-1022",
+  "rule": "R-04",
+  "what": "seller TRN 14 digits"
+ },
+ {
+  "invoice_no": "INV-2026-1023",
+  "rule": "R-04",
+  "what": "seller TRN 14 digits"
+ },
+ {
+  "invoice_no": "INV-2026-1010",
+  "rule": "R-05",
+  "what": "UAE business buyer without TRN"
+ },
+ {
+  "invoice_no": "INV-2026-1022",
+  "rule": "R-05",
+  "what": "UAE business buyer without TRN"
+ },
+ {
+  "invoice_no": "INV-2026-1030",
+  "rule": "R-02",
+  "what": "duplicate invoice number"
+ },
+ {
+  "invoice_no": "INV-2026-1030",
+  "rule": "R-02",
+  "what": "duplicate invoice number (pair)"
+ },
+ {
+  "invoice_no": "INV-2026-1034",
+  "rule": "IBR-154-AE",
+  "what": "transaction type code has letters"
+ },
+ {
+  "invoice_no": "INV-2026-1035",
+  "rule": "R-01",
+  "what": "transaction type code empty"
+ },
+ {
+  "invoice_no": "INV-2026-1041",
+  "rule": "R-10",
+  "what": "VAT not calculated per line"
+ },
+ {
+  "invoice_no": "INV-2026-1042",
+  "rule": "R-08",
+  "what": "discount netted silently"
+ },
+ {
+  "invoice_no": "INV-2026-1046",
+  "rule": "R-11",
+  "what": "header total excl VAT differs from lines"
+ },
+ {
+  "invoice_no": "INV-2026-1051",
+  "rule": "R-03",
+  "what": "date exported as DD/MM/YYYY"
+ },
+ {
+  "invoice_no": "INV-2026-1053",
+  "rule": "R-09",
+  "what": "ERP tax code instead of PINT category"
+ }
+]
